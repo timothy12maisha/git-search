@@ -82,4 +82,4 @@ To get more help on the Angular CLI use `ng help` or go check out the [Angular C
 Email:timomaisha2@gmail.com
 
 ## license
-[MIT License](https://kebasoh.github.io/Gitsearch/blob/master/LICENSE) [kebasoh](https://github.com/kebasoh). 
+[MIT License](https://github.com/timothy12maisha/git-search) [Timothy](https://github.com/timothy12maisha/git-search). 
