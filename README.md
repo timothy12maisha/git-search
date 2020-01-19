@@ -1,7 +1,7 @@
 ## Project Name
 - Github  search
 ## Author
-- Kebaso Steve Ongati
+- Timothy Maina Kihara
 ## Description
 
 - The website basically works in a way that you can search you Github account and get to explore and get to view your account in Github.
@@ -18,7 +18,6 @@
 
 ## BDD
 
-<img src="src/assets/Gitsearch.png">
 
  1. Displays GitHub info of a user when user name is entered
    - INPUT: "user name entered"
