@@ -11,7 +11,7 @@ export class ProfileService {
 
   constructor(private http:HttpClient) { 
     console.log("Service is now ready!");
-    this.username = "kebasoh";
+    this.username = "timothy12maisha";
   }
   getProfileInfo(){
     return this.http.get("https://api.github.com/users/" + this.username + "?client_id="+ this.client_id + "&client_secret=" + this.client_secret)
